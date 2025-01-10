@@ -54,3 +54,97 @@
 .banner-right-part{
     padding-right: 50px;
 }
+.pillars-of-bangladesh{
+    margin: 8%;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 25px;
+}
+.general-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.pillar-card{
+    height: 210px;
+    width: 225px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    padding-bottom: 20px;
+}
+.pillars-cards{
+    display: flex;
+    gap: 20px;
+}
+.vision-of-future{
+    margin: 8%;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 25px;
+}
+.future-card-general{
+    height: 300px;
+    width: 330px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: gray;
+    align-items: center;
+}
+.learn-more-btn{
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 7px;
+    background-color: white;
+    margin-top: 20px;
+}
+.future-cards{
+    display: flex;
+    gap: 20px;
+}
+.btn-blue{
+    background-color: #5490F5;
+    color: white;
+    border: 1px solid  #5490F5;
+}
+.btn-green{
+    background-color: #09A15C;
+    color: white;
+    border: 1px solid  #09A15C;
+}
+.btn-yellow{
+    background-color: #FFC239;
+    color: white;
+    border: 1px solid  #FFC239;
+}
+.future-card-blue{
+    background-color: #548ff542;
+}
+.future-card-green{
+    background-color: #09a15d4c;
+}
+.future-card-yellow{
+    background-color: #ffc4394a;
+}
+.dr-yunus{
+    margin: 8%;
+    margin-top: -60px;
+    background-color: beige;
+    border-radius: 25px;
+    padding-top: 30px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-bottom: 30px; 
+    border: 2px solid black;
+    
+}
+.about-dr-yunus{
+   background-image: url('./assets/quote-bg.png');
+    background-repeat: no-repeat;
+}
+.table-container{
+    height: 400px;
+    width: auto;
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 20px;
+}
