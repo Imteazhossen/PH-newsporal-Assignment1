@@ -1,0 +1,56 @@
+.inter-normal {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+*{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 35px;
+    margin-top: 20px;
+    align-items: center;
+}
+.signin-btn{
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 7px;
+    color: #006A50;
+    border: 1px solid #006A50;
+    background-color: white;
+}
+.banner{
+    height: 500px;
+    margin: 8%;
+    background-color: #006a5047;
+    margin-top: 0px;
+    border-radius: 20px;
+}
+.bangladesh2{
+    color: #0e0e0e56;
+}
+.banner-title{
+    font-size: 46px;
+}  
+.explore-btn {
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 7px;
+    color: white;
+    background-color:#006A50;
+    border: 1px solid #006A50;
+}
+.banner {
+    display: flex;
+    align-items: center;
+}
+.banner-left-part{
+    padding: 50px;
+}
+.banner-right-part{
+    padding-right: 50px;
+}
