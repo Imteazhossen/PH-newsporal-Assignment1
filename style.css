@@ -142,9 +142,43 @@
     background-repeat: no-repeat;
 }
 .table-container{
-    height: 400px;
+    height: 315px;
     width: auto;
-    background-color: cadetblue;
+    background-color: white;
     border-radius: 20px;
     padding: 20px;
 }
+.table-head {
+    display: flex;
+    justify-content: space-between;
+}
+td{
+    border-collapse: collapse;
+    
+    border: 1px solid;
+    padding: 20px;
+    
+}
+table{
+    height: 300px;
+    border-collapse: collapse;
+    width: 950px;
+    border: 1px solid;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.your-opinion{
+    background-color: wheat;
+}
+th > div {
+    padding: 20px;
+   
+}
+.agree-btn{
+    padding: 12px 15px;
+    border-radius: 5px;
+    border: 1px solid #09a15d4c;
+    background-color: #09a15d4c;
+    font-weight: bold;
+}
+
