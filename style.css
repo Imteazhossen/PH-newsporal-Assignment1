@@ -6,6 +6,9 @@
 *{
     margin: 0px;
 }
+.discription-text-color{
+    color: rgb(116, 115, 115);
+}
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -180,5 +183,60 @@ th > div {
     border: 1px solid #09a15d4c;
     background-color: #09a15d4c;
     font-weight: bold;
+}
+.recent-news{
+    margin: 8%;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 25px;
+}
+.satelite{
+    border-radius: 25px;
+}
+.news-card{
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+.news-discription{
+    align-items: center;  
+}
+.donate{
+    margin: 8%;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 25px;
+    text-align: center; 
+}
+.taka-card{
+    height: 120px;
+    width: 240px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 25px;
+    align-content: center;
+    border: 1px solid rgba(128, 128, 128, 0.47);
+}
+.taka-cards{
+    display: flex;
+    gap: 20px;
+}
+.taka-card2{
+    background-color:#09a15d4c;
+}
+.taka-card:hover {
+    background-color: #548ff550;
+}
+.inputs > input{
+    width: 800px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.438);
 }
 
